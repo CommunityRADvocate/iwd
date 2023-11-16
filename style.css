@@ -1,31 +1,10 @@
-* {
+body {
     margin: 0;
     padding: 0;
-    border: 0;
-    vertical-align: baseline;
-    box-sizing: border-box;
-}
-
-body {
-
+    display: flex;
+    flex-direction: column;
 }
 
 nav {
-
-}
-
-#header {
-
-}
-
-#about {
-
-}
-
-#work {
-
-}
-
-#contact {
-
+    display: flex;
 }
